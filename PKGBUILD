@@ -1,5 +1,5 @@
-# Maintainer: Stephen Steward <smsteward92@gmail.com>
-# Contributor: DannyChain <dev@dannychain.anonaddy.me>
+# Maintainer: Stephen Steward <smstewa4 at protonmail dot com>
+# Contributor: DannyChain <dev at dannychain dot anonaddy dot me>
 
 _appname=app-outlet
 pkgname=app-outlet-bin
